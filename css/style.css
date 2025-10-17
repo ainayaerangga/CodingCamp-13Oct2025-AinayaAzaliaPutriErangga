@@ -1,0 +1,14 @@
+body {
+    justify-items: center;
+    justify-self: center;
+    height: 100vh;
+    align-content: center;
+    background: pink;
+    font-family: cursive;
+}
+
+    header {
+        font-family: cursive;
+    }
+
+
