@@ -1,4 +1,4 @@
-/// Database simulation
+/// Database permanent storage can be implemented later using localStorage or IndexedDB
 let tasksDb = [];
 
 //set footer year dynamically
